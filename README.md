@@ -1,0 +1,2 @@
+# nft-airdrop-tool
+airdrop

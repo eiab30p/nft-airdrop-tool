@@ -1,0 +1,95 @@
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+Beginning the upload for 10 (img+json) pairs
+started at: 1643592076292
+initializing candy machine
+initialized config for a candy machine with publickey: BMYKJs2LEotN7ipPgwuCgELZyWHCzhcK3KLSPKPkGUXy
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+Beginning the upload for 10 (img+json) pairs
+started at: 1643592224086
+initializing candy machine
+initialized config for a candy machine with publickey: 9qJSZwatqfXPRqTne3X1pm1AxKJ9kStgSeT8hquJbwqJ
+Uploading Size 10 { mediaExt: '.png', index: '0' }
+Processing asset: 0
+Processing asset: 1
+Processing asset: 2
+Processing asset: 3
+Processing asset: 4
+Processing asset: 5
+Processing asset: 6
+Processing asset: 7
+Processing asset: 8
+Processing asset: 9
+Writing indices 0-9
+Done. Successful = true.
+ended at: 2022-01-31T01:24:51.745Z. time taken: 00:01:07
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+Beginning the upload for 10 (img+json) pairs
+started at: 1643594717239
+config for a candy machine with publickey: 9qJSZwatqfXPRqTne3X1pm1AxKJ9kStgSeT8hquJbwqJ has been already initialized
+Uploading Size 0 undefined
+Done. Successful = true.
+ended at: 2022-01-31T02:05:17.243Z. time taken: 00:00:00
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+Key size 10
+Looking at key  0
+Looking at key  1
+Looking at key  2
+Looking at key  3
+Looking at key  4
+Looking at key  5
+Looking at key  6
+Looking at key  7
+Looking at key  8
+Looking at key  9
+uploaded (10) out of (10)
+ready to deploy!
+Minting 5 tokens...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 1 complete 3dU4h32V8kUFqZnejAGWiTt41DvApqELTLy623WVX6vUphDX8Hbc2vYe7xwcjKzPzCaBHCQ8uuJBFqTVx26aeUoM
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 2 complete 2RpQFuraA47agsjEHVv85AVM1AiQLxySTsxqxsX9eK1GUyiSzSWqoQuGVkamy1Zk8i1Nx5kcLyRhnpSgMJKAFHed
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 3 complete 2WH8XGmUiGQ2ozijL5VTBgcwTT5otHFWWiYPmxYGRbKHSpHhZNSgZi138RDwfhDLsbBf4GAryDXh3QKTV7HJMbRg
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 4 complete 3CUCBf4JodKERrwSphU6JDMzXNRkLosmQzK4Kg9Mgn5P7ods2jtwfPmWZuHQFcADo64bY5A9L6V3NGfSMCJbhsAp
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 5 complete 4oX9kkb4ax96mZSKSSTZtHHMF5uQRvMpToCRgwqaDw6CgwC2zZFc5tM3bVgbGSTGWzB8VCkmhrR2cyZ74LgSaHsY
+minted 5 tokens
+mint_multiple_tokens finished
+Minting 5 tokens...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 1 complete 4QATQNG18QCmdDVwoBZc8oxSy1QrE7Jbggrb1E8XJi7qC3AcVggJUNcGgU9ys9a372FTRU1p5VzC1sQXxbUKc6kY
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 2 complete 5p6U92jsAyLrKzH9MstrUyLSBfX9eeZLRTeN4ZUw7wDue7DzYxJQqqhVsDugvNt2Dy3UDprSrGHhuXwyyUgKLYo7
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 3 complete 4bHE9jZz3ZE9uw9gN5wvQy7zbxDoAG5dYdufUfWkdqMpEdmL9dF8Vad2arj3zYeQvxN3aaCjvC8F25zbCb69vXDj
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 4 complete 5dfU8kZfwTK96LRofYSQmyfRx1sPAHAyAZHgwVogJuJ7Ex5hxi3zVZgW83dJdThEDiL2Lzk9QhzPCBXLmGNCA7hi
+minting another token...
+wallet public key: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+USING CUSTOM URL https://muddy-icy-pine.solana-devnet.quiknode.pro/ea74485eceb04c8524ad3722b33ec35dcd9ec6b1/
+transaction 5 complete 5pfCf4H41Khk1nbMZyE5aGd3uDNWzngxTCPSVEuWPKKhVSqmUFAcvEYZZ1AQA64hs2NkG4SJZrtGKEqUrBYUiF3h
+minted 5 tokens
+mint_multiple_tokens finished

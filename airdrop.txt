@@ -1,0 +1,42 @@
+Main HashList for Winston: AkaRRmhusvdBPEFedddGBRm2HeFCbCiUmqVfzXYftgdg
+
+
+
+
+
+
+Wrote new keypair to /Users/whyuascii/.config/solana/devnet-testingairdrop.json
+=============================================================================
+pubkey: AWBxGE7fwS9pJxtepgN6sbKx8SdqHiNA6QfEDKAdGxc
+=============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+harsh casual version dish flock life bamboo diagram spatial salmon mango girl
+=============================================================================
+
+
+
+
+Set the environment:
+solana config set --url https://api.devnet.solana.com
+
+
+
+
+ts-node ./js/packages/cli/src/candy-machine-v2-cli.ts upload \
+    -e devnet \
+    -k /Users/whyuascii/.config/solana/devnet-testingairdrop.json \
+    -cp config.json \
+    -c example \
+    ./assets
+
+
+ts-node ./js/packages/cli/src/candy-machine-v2-cli.ts mint_one_token \
+    -e devnet \
+    -k /Users/whyuascii/.config/solana/devnet-testingairdrop.json \
+    -c example
+
+
+ts-node ./js/packages/cli/src/candy-machine-v2-cli.ts verify_upload \
+    -e devnet \
+    -k /Users/whyuascii/.config/solana/devnet-testingairdrop.json \
+    -c example
